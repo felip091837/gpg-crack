@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#EL1S1uM Was Here
+#felipesi Was Here
 
 if [ "$#" != 2 ]; then
         echo "USAGE: $0 file.gpg wordlist.txt"
